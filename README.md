@@ -67,6 +67,10 @@ RAR License has just started and it needs to develop. You can Pull Requests or o
 
 Let's make this license more social and fun. 
 
+## License
+
+RAR License is also released under RAR License. So, make some contribution to this project or just star.
+
 ## List of projects using RAR License
 
 If you're using RAR License, you can add your project to the list below.
