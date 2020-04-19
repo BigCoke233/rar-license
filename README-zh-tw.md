@@ -4,13 +4,13 @@ Lang: [English](README.md) | [简体中文](README-zh.md) | 繁体中文
 
 ![](https://img.shields.io/badge/based%20on-MIT-blue?style=flat-square) ![](https://img.shields.io/github/contributors/BigCoke233/rar-license?style=flat-square) [![](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-**RAR** 是基于 MIT 的新开源协议，它主要强调对于项目作者的尊重。
+**RAR** 是基於 MIT 的新開源協議，它主要強調對於項目作者的尊重。
 
-我最初的想法是来自 [SATA License (The Star and Thank Author License)](https://github.com/zTrix/sata-license)。SATA 开源协议鼓励用户去感谢项目的作者并为他的项目点上一颗 Star。使用基于 RAR 协议发布的项目的人应该对项目作者展现更多的尊重，并且在对这个项目做一些“被限制的”事情之前先请求作者。
+我最初的想法是來自 [SATA License (The Star and Thank Author License)](https://github.com/zTrix/sata-license)。 SATA 開源協議鼓勵用戶去感謝項目的作者並為他的項目點上一顆 Star。使用基於 RAR 協議發布的項目的人應該對項目作者展現更多的尊重，並且在對這個項目做一些 “被限制的” 事情之前先請求作者。
 
 ## 使用
 
-把下面这段文本复制到你的 `LICENSE`文件里。
+把下面這段文本複製到你的 `LICENSE` 文件裡。
 
 ```
 The Respect and Request License (RAR)
@@ -52,9 +52,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
 
-然后将 `<Year>` `<Author>` `<Url>` 替换成你项目的对应信息。
+然後將 `<Year>` `<Author>` `<Url>` 替換成你項目的對應信息。
 
-你或许会想要在你的项目里使用 RAR 协议的徽标。
+你或許會想要在你的項目裡使用 RAR 協議的徽標。
 
 ```markdown
 <!-- Flat styled -->
@@ -63,19 +63,19 @@ THE SOFTWARE.
 [![](https://img.shields.io/badge/license-RAR-blueviolet?style=flat-square)](https://github.com/BigCoke233/rar-license) 
 ```
 
-## 发展
+## 發展
 
-RAR 协议才刚刚开始，它需要发展。你可以提交 Pull Requests 或者提出 issues 反馈意见。在你的项目里使用 RAR 协议也能够帮助它发展。
+RAR 協議才剛剛開始，它需要發展。你可以提交 Pull Requests 或者提出 issues 反饋意見。在你的項目裡使用 RAR 協議也能夠幫助它發展。
 
-让我们把这份开源协议变得更加社会化和有趣吧~
+讓我們把這份開源協議變得更加社會化和有趣吧～
 
-## 协议
+## 協議
 
-RAR 协议也是基于 RAR 协议发布的，所以如果你想要使用 RAR 协议，为这个项目做些贡献或者点个 Star。
+RAR 協議也是基於 RAR 協議發布的，所以如果你想要使用 RAR 協議，為這個項目做些貢獻或者點個 Star。
 
-## 使用 RAR License 的项目
+## 使用 RAR License 的項目
 
-请前往 [README.md](README.md) 查看。
+請前往 [README.md](README.md) 查看。
 
 ---
 
