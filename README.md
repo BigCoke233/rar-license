@@ -1,3 +1,5 @@
+Lang: English | [简体中文](README-zh.md) | [繁体中文](README-zh-tw.md)
+
 # The Respect and Request License (RAR License)
 
 ![](https://img.shields.io/badge/based%20on-MIT-blue?style=flat-square) ![](https://img.shields.io/github/contributors/BigCoke233/rar-license?style=flat-square) [![](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)

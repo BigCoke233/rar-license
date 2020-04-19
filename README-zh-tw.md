@@ -1,4 +1,4 @@
-Lang: [English](README.md) | 简体中文 | [繁体中文](README-zh-tw.md)
+Lang: [English](README.md) | [简体中文](README-zh.md) | 繁体中文
 
 # The Respect and Request License (RAR License)
 
